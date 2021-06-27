@@ -18,7 +18,7 @@ function App() {
             <Products setCartProducts={setCartProducts} cartProducts={cartProducts}/>
           </Route>
           <Route path="/cart">
-              <Cart cartProducts={cartProducts}/>
+              <Cart cartProducts={cartProducts} setCartProducts={setCartProducts}/>
           </Route>
         </div>
     </BrowserRouter>

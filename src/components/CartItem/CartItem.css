@@ -23,3 +23,15 @@
     border: 1px solid black;
     padding: 0rem 0.8rem;
 }
+
+.item__options{
+    margin-top: 3rem;
+}
+
+.option__button{
+    background: transparent;
+    border: none;
+    margin: 1rem;
+    cursor: pointer;
+    font-weight: 300;
+}
