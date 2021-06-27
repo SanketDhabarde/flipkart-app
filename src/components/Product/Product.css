@@ -1,0 +1,27 @@
+.product{
+    border: 1px solid #eee;
+    
+    width: 200px;
+    margin: 1rem;
+    object-fit: contain;
+}
+.product > img{
+    width: 100%;
+}
+
+.product__footer{
+    padding: 0.5rem;
+}
+
+.product:hover{
+    box-shadow: 1px 3px 4px #ccc;
+}
+
+.product__cartButton{
+    margin-top: 1rem;
+    padding: 0.2rem 0.5rem;
+    cursor: pointer;
+    background-color: #FF9F00;
+    color: white;
+    border: none;
+}

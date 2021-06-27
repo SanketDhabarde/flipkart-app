@@ -1,0 +1,25 @@
+.cartItem{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #ccc;
+}
+.item__image{
+    width: 150px;
+    object-fit: contain;
+}
+
+.item__image > img{
+    width: 100%;
+}
+
+.item__add{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+.item__count{
+    border: 1px solid black;
+    padding: 0rem 0.8rem;
+}

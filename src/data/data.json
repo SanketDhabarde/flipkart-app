@@ -1,0 +1,62 @@
+[
+    {
+        "image": "https://rukminim1.flixcart.com/image/580/696/kiulxu80/jacket/r/a/g/m-maw20jkt083b-metronaut-original-imafyj4zuhyuhtv5.jpeg?q=50",
+        "name":"Full Sleeve Solid Men Quilted Jacket",
+        "price": 1259,
+        "size": "S",
+        "id": "1",
+        "gender": "male",
+        "brand": "METRONAUT ",
+        "count": 1
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/880/1056/jxp08sw0/jacket/m/g/m/m-aw18-zip-jacket-grey-way-maniac-original-imafg32hfghy25pv.jpeg?q=50",
+        "name":"Full Sleeve Printed Men Bomber Jacket",
+        "price": 419,
+        "size": "M",
+        "id": "2",
+        "gender": "male",
+        "brand": "MANIAC",
+        "count": 1
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/880/1056/jp02t8w0/sweatshirt/4/s/3/s-trdsweatabs1-tripr-original-imafba7amtg5z4bd.jpeg?q=50",
+        "name":"Full Sleeve Printed Men Casual Jacket",
+        "price": 569,
+        "size": "M",
+        "id": "3",
+        "gender": "male",
+        "brand": "TRIPR",
+        "count": 1
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/880/1056/kflftzk0/jacket/z/q/9/xl-81276-fk-breil-by-fort-collins-original-imafwyyevjwneh3x.jpeg?q=50",
+        "name":"Full Sleeve Solid Men Quilted Jacket",
+        "price": 1049,
+        "size": "L",
+        "id": "4",
+        "gender": "male",
+        "brand": "Breil By Fort Collins",
+        "count": 1
+    },
+    {
+       "image": "https://rukminim1.flixcart.com/image/880/1056/jxapua80/sweatshirt/j/z/j/4xl-tnvhoodabs-sweat-tripr-original-imaf9ebbaaqqzbvv.jpeg?q=50",
+        "name":"Full Sleeve Printed Men Casual Jacket",
+        "price": 474,
+        "size": "L",
+        "id": "5",
+        "gender": "male",
+        "brand": "TRIPR",
+        "count": 1
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/880/1056/ki7qw7k0-0/jacket/5/k/k/3xl-w03-blk-zip-veirdo-original-imafa4wbpkzhgfha.jpeg?q=50",
+        "name":"Full Sleeve Solid Men Jacket",
+        "price": 699,
+        "size": "S",
+        "id": "6",
+        "gender": "male",
+        "brand": "Veirdo",
+        "count": 1
+    }
+]

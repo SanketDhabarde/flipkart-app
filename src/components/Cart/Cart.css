@@ -1,0 +1,23 @@
+.cart{
+    display: flex;
+    justify-content: space-around;
+    padding: 0rem 3rem;
+    margin-top: 2rem;
+}
+
+.cart__left{
+    flex: 0.8;
+    border: 1px solid black;
+    padding: 1rem;
+}
+
+.cart__right{
+    flex: 0.2;
+    padding: 1rem;
+}
+
+.cart__header{
+    border-bottom: 1px solid black;
+    margin-bottom: 1rem;
+}
+
