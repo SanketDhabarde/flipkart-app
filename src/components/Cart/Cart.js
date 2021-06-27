@@ -4,7 +4,7 @@ import './Cart.css';
 
 function Cart({cartProducts, setCartProducts}) {
     const [saveProducts, setSaveProducts] = useState([]);
-
+   
     console.log(cartProducts);
     let totalPrice=0;
     cartProducts.forEach(item => {

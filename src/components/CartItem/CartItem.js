@@ -5,7 +5,7 @@ import RemoveIcon from '@material-ui/icons/Remove';
 import { IconButton } from '@material-ui/core';
 
 function CartItem({item, saveProducts, setSaveProducts, cartProducts, setCartProducts, saveProduct}) {
-    const [count, setCount] = useState(1);
+    const [count, setCount] =useState(1)
 
     useEffect(() => {
         item.count = count;
